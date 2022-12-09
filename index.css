@@ -48,3 +48,65 @@ h3 {
 .Straberries:hover {
   background-color: #efb256;
 }
+.Onions {
+  height: 350px;
+  margin-top: 50px;
+  width: 250px;
+  background-color: rgb(253, 245, 233);
+  padding: 20px;
+  margin: 10px;
+  border: 1px solid rgb(253, 245, 233);
+  cursor: pointer;
+}
+.Onions:hover {
+  background-color: #efb256;
+}
+.Tomatoes {
+  height: 350px;
+  margin-top: 50px;
+  width: 250px;
+  background-color: rgb(253, 245, 233);
+  padding: 20px;
+  margin: 10px;
+  border: 1px solid rgb(253, 245, 233);
+  cursor: pointer;
+}
+.Tomatoes:hover {
+  background-color: #efb256;
+}
+.Bringat {
+  height: 350px;
+  margin-top: 50px;
+  width: 250px;
+  background-color: rgb(253, 245, 233);
+  padding: 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+.Bringat:hover {
+  background-color: #efb256;
+}
+.Brocoli {
+  height: 350px;
+  margin-top: 50px;
+  width: 250px;
+  background-color: rgb(253, 245, 233);
+  padding: 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+.Brocoli:hover {
+  background-color: #efb256;
+}
+.Potato {
+  height: 350px;
+  margin-top: 50px;
+  width: 250px;
+  background-color: rgb(253, 245, 233);
+  padding: 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+.Potato:hover {
+  background-color: #efb256;
+}
