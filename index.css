@@ -36,3 +36,15 @@ h3 {
 .Potato img {
   height: 200px;
 }
+.Straberries {
+  height: 350px;
+  margin-top: 50px;
+  width: 250px;
+  background-color: rgb(253, 245, 233);
+  padding: 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+.Straberries:hover {
+  background-color: #efb256;
+}
